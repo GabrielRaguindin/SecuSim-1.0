@@ -1,4 +1,4 @@
-# SecuSim: Network Security Policy Simulator
+# SecuSim: Network Security Policy Simulator (version 1.0)
 
 **Note: This is a Capstone Project**
 
@@ -8,40 +8,9 @@
 - Text Editor or IDE
 - Git
 
-## Installation Steps
-
-1. **Clone the Repository**
-    ```sh
-    git clone https://github.com/GabrielRaguindin/SecuSim.git
-    ```
-
-2. **Open the Project**
-    - Navigate to the directory where you cloned the repository.
-    - Open the project with your preferred text editor or IDE.
-
-3. **Navigate to `main` branch**
-    ```sh
-    git switch main
-    ```
-
-5. **Install Dependencies**
-    ```sh
-    npm install
-    ```
-
-6. **Test Optimized Production Build**
-    ```sh
-    npm run build
-    npm run start
-    ```
-##
-
-## IF YOU DON'T WANT PRODUCTION BUILD
- 1. **USE THIS COMMAND ON THE TERMINAL**
-    ```SH
-    npm run dev
-    ```
-
-##
-
-This is a Next.js project bootstrapped with Create Next App.
+## Tech Stack and Libraries
+- Next.js 14
+- Tailwind CSS
+- Flowbite React UI Library
+- Vis.js
+- React Icons
